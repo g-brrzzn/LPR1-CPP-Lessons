@@ -1,2 +1,2 @@
-# LPR1-CPP-Lessons
-CPP lessons completed during the first semester of college
+# CPP-College-Lessons
+CPP lessons completed during the college
